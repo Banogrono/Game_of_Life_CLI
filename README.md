@@ -1,7 +1,7 @@
 # Game_of_Life
 
 <p align="center">
-    <img align=""></img>
+    <img align="GameOfLife_v1.mp4"></img>
 </p>
 
 
